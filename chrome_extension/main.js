@@ -62,3 +62,7 @@ const clearAllColors = () => {
 
 allClear.addEventListener('click', clearAllColors)
 colorPickerBtn.addEventListener('click', activeEyeDropper)
+
+
+// You should paste icons to this folder and write names to manifest.json
+// and read this https://developer.chrome.com/docs/webstore/publish/
